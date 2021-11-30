@@ -6,7 +6,7 @@
 ##### Sunday November 28, 2021
 
 
-GitHubURL: https://github.com/GermanGornalusse/IntroToProg-Python-Mod07
+GitHubURL: https://github.com/GermanGornalusse/IntroToProg-Python-Mod07  
 GitHub Web Page: https://germangornalusse.github.io/IntroToProg-Python-Mod07/
 
 
@@ -16,11 +16,13 @@ In this paper, I will show you two useful concepts in Python programming languag
 For simplicity, I will assume you will be using Windows operating system.
 
 ## Step 1.  Create a subfolder in your C: Drive\_PythonClass
-The following instructions will allow you to create this subfolder in your hard drive: C:/_PythonClass/Assignment07
-a) Left double click on “_PythonClass” folder (to open it) 
-b) Right click> New > Folder
-c) Name the folder as Assignment 07_Yourlastname
-I am showing you how the final path to this folder will look like (Figure 1):
+The following instructions will allow you to create this subfolder in your hard drive:  
+**C:/_PythonClass/Assignment07**  
+a) Left double click on “_PythonClass” folder (to open it)   
+b) Right click> New > Folder  
+c) Name the folder as Assignment 07_Yourlastname  
+I am showing you how the final path to this folder will look like (Figure 1):  
+ 
  
 Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
