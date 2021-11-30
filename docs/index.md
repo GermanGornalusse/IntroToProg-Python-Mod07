@@ -24,9 +24,9 @@ b) Right click> New > Folder
 c) Name the folder as Assignment 07_Yourlastname  
 I am showing you how the final path to this folder will look like (**Figure 1**):  
 
-#### Figure 1
 
-![Results of Figure 1](docs/Pathway to folder Assignment 07.png)
+
+![Figure 1] (/IntroToProg-Python-Mod07/docs/Pathway to folder Assignment 07.png)
 ####  Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
 
