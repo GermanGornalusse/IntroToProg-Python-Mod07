@@ -127,7 +127,27 @@ Before trying out the demo, please visit these websites:
 •	https://www.techbeamers.com/use-try-except-python/ Ideal for beginners. 
 •	https://www.programiz.com/python-programming/exception-handling  I liked how the flow of error handling is explained in this website (what comes first, what is skipped, etc.)
 •	https://www.w3schools.com/python/python_try_except.asp I liked the simplicity of the explanations of the W3chools and the fact that you can try it out in any computer (even if you don’t have Python actually installed). 
+```
+# ----------------------------------------------------------------------------------- #
+# Title: Module 07 Files and Exceptions
+# Description: Demo for Error Handling
+#              Example of how to handle FileNotFoundError error
+#              Example of how the Catch-All Exception handler gives useful information
+# ChangeLog: (Who, When, What)
+# Dev: GGornalusse,11.30.2021,Created  Script
+# ----------------------------------------------------------------------------------- #
 
+try:
+    with open("German's file.txt") as gg:
+        file_data = gg.read()
+    print(file_data)
+except FileNotFoundError:
+    print("The data file you are trying to read is missing.")
+except Exception as err:
+    print('Some other error occurred.', str(err))
+finally:
+    print("Hope you learned error handling!")
+```
 When there are mistakes in your code, Python raises a runtime exception.  In this demo “Assignment 07_Error_Handling”, we will practice. 
 First, you will learn what happens when your file is absent so Python cannot access it.
 a)  Write a try: statement. You will try to read the file “German’s file.text”, assign it to the object file_data and print it out. Because this file is missing, Python will internally raise an error of the type: FileNotFound.
