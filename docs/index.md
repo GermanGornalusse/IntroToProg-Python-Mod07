@@ -26,10 +26,10 @@ I am showing you how the final path to this folder will look like (**Figure 1**)
 
 #### Figure 1
 
-![Results of Figure 1](/docs/error.png)
+![Results of Figure 1](docs/Pathway to folder Assignment 07.png)
 ####  Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
-![Figure 1] (/https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Pathway%20to%20folder%20Assignment%2007.png)   
+
 
 ## Step 2. Create a new Project in PyCharm
 You will create a new project in PyCharm that uses the _PythonClass\Assignment07_last name folder as its location. I assume you will have installed PyCharm on your C:\ drive or on your desktop.
