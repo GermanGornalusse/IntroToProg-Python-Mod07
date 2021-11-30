@@ -39,7 +39,7 @@ d) Select “New environment using Virtualenv” option. And “Create a main.py
 e) Select “Create” (lower right corner of your screen). [Figure 2]
 
 
-![Figure 2] ( 
+![Figure 2](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/672c6850a2248f7c9f547b965f53d968b4093b20/docs/How%20to%20Create%20a%20New%20Project%20in%20PyCharm.png) 
 Figure 2 How to create a new project in C:\_PythonClass\Assignment 07 subfolder using the IDE PyCharm
 
 To do that:
