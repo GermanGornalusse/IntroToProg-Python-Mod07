@@ -24,7 +24,7 @@ b) Right click> New > Folder
 c) Name the folder as Assignment 07_Yourlastname  
 I am showing you how the final path to this folder will look like (**Figure 1**):  
  
- 
+![Figure 1] (/https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Pathway%20to%20folder%20Assignment%2007.png)   
 Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
 ## Step 2. Create a new Project in PyCharm
