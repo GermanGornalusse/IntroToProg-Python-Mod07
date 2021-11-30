@@ -25,7 +25,7 @@ c) Name the folder as Assignment 07_Yourlastname
 I am showing you how the final path to this folder will look like (**Figure 1**):  
 
 
-![Figure 1]
+![Figure 1](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Pathway%20to%20folder%20Assignment%2007.png)   
 ####  Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
 
@@ -113,7 +113,9 @@ The steps that are described in the script explain how to pickle a dictionary fi
 6) Once the file is opened for writing, you can use pickle.dump(), which takes two arguments: the object you want to pickle (dic_of_data) and the file to which the object has to be saved (outputfile). 
 7)  In the Presentation (Input/Output) section, you will call the write_data_to_file function and define the arguments file_name (new pickled file) and dic_of_data (original dictionary that will be pickled).
 8) You will verify that a a new file named Telephonebook.data  should have appeared in the same directory as your Python script. The file should be in the same folder as your script when you used the correct, relative file path. (Figure 4).
- 
+
+![Figure 4a](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/BinaryFile%20Assignment%2007.PNG)
+![Figure 4b](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Capture%20of%20binary%20file%20read%20with%20Notepad.PNG)
  Figure 4. Top panel: PyCharm window showing the binary file “TelephoneBook.data”. Notice the special characters showing how the code got “obscured”, but not totally encrypted. Also, notice that the location of this file. Bottom panel: binary file when opened with text editor Notepad.
 Below, I describe the  steps to how to unpickle a binary file into a new dictionary file.
 
@@ -126,9 +128,11 @@ To do that, simply call the function “read_data_from_file” and use as argume
 Figure 5, below, verifies that this IO worked successfully.
 
  
-Figure 5. PyCharm console window verifies that the “unpickling” of the binary file into a new dictionary file occurred successfully. Please notice the new dictionary elements and how type() statement confirm that it is a dictionary object: <class ‘dic’>
+![Figure 5](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Verification%20in%20PyCharm%20on%20Pickling.PNG)
+Figure 5. PyCharm console window verifies that the “unpickling” of the binary file into a new dictionary file occurred successfully. Please notice the new dictionary elements and how type() statement confirm that it is a dictionary object: <class ‘dic’>   
 In the following Figure 6 below, I illustrate how the assignment 07 worked properly once it is ran on OS command shell:
  
+![Figure 6](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Capture%20CMD%20command%20to%20verify%20pickling%20works.PNG)
 Figure 6. Assignment 07_Pickling ran on OS command shell
 
 ## Step 5. Structure Error Handling in Python
@@ -163,14 +167,17 @@ First, you will learn what happens when your file is absent so Python cannot acc
 a)  Write a try: statement. You will try to read the file “German’s file.text”, assign it to the object file_data and print it out. Because this file is missing, Python will internally raise an error of the type: FileNotFound.
 b) Because this exception occurs, the code in the try’s suite terminates and then the code in the try’s except suite runs. The code is indented under the “except” clause and only executes if the “FileNotFoundError” exception is raised. The Figure 7 below shows what happens when you run this code in Pycharm.
  
+![Figure 7](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Capture%20Except%20FileNotFoundError.PNG)
 Figure 7. The new version of the code produces a much friendlier message thanks to the “try” and “except” block that triggers the FileNotFound built-in class.
-Now, you will create a folder in Assignment 07 with this name: “German’s file.txt” and you will run the code again.
-In this case, the line #16 of your code “except Exception as err” will be triggered.  Unlike the “non-specific” catch-all statement “except:”, this one arranges for the exception object to be assigned to the “err” variable and prints it out (line #17), as shown in Figure 8 below:
- 
-Figure 8. The catch-all exception handler can assign the error to a variable that can be printed out
-The last statement finally executes the command no matter how error handling happened in the try:except block of code.
-In the following Figure 9 below, I illustrate how the assignment 07_Error Handling worked properly once it is ran on OS command shell:
- 
+Now, you will create a folder in Assignment 07 with this name: “German’s file.txt” and you will run the code again.   
+In this case, the line #16 of your code “except Exception as err” will be triggered.  Unlike the “non-specific” catch-all statement “except:”, this one arranges for the exception object to be assigned to the “err” variable and prints it out (line #17), as shown in Figure 8 below:   
+
+![Figure 8](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Capture%20Except%20as%20object.PNG)
+Figure 8. The catch-all exception handler can assign the error to a variable that can be printed out   
+The last statement finally executes the command no matter how error handling happened in the try:except block of code.   
+In the following Figure 9 below, I illustrate how the assignment 07_Error Handling worked properly once it is ran on OS command shell:   
+
+![Figure 9](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Capture%20of%20CMD%20while%20running%20Error%20Handling.PNG)   
 Figure 9. Assigment_07 Error Handling ran under the command line OS shell
 
 ## Summary
