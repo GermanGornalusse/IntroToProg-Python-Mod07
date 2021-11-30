@@ -6,8 +6,8 @@
 ##### Sunday November 28, 2021
 
 
-[GitHubURL] (https://github.com/GermanGornalusse/IntroToProg-Python-Mod07)  
-[GitHub Web] (https://germangornalusse.github.io/IntroToProg-Python-Mod07/)
+[GitHubURL](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07)  
+[GitHub Web](https://germangornalusse.github.io/IntroToProg-Python-Mod07/)
 
 
 
