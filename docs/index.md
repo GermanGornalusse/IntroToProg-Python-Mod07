@@ -24,9 +24,8 @@ b) Right click> New > Folder
 c) Name the folder as Assignment 07_Yourlastname  
 I am showing you how the final path to this folder will look like (**Figure 1**):  
 
-#### Listing 1
 
-![Figure 1].(/docs/Pathway to folder Assignment 07.png)  
+![Figure 1].  (/docs/Pathway to folder Assignment 07.png)  
 ####  Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
 
@@ -38,7 +37,9 @@ b) Select: File> New Project
 c) In location type C:\_PythonClass\Assignment07 to select the file subfolder wherein you will save your project. Alternatively, you can browse the destination folder by selecting the “open folder” symbol at the end of “Location” and manually by browsing and selecting the final folder. [See yellow arrow, on Figure 2]
 d) Select “New environment using Virtualenv” option. And “Create a main.py” welcome script option. [See orange arrow, Figure 2]. Make sure the Base interpreter is set “Python 3.10” (or the latest version you installed in your computer).
 e) Select “Create” (lower right corner of your screen). [Figure 2]
- 
+
+
+![Figure 2] ( 
 Figure 2 How to create a new project in C:\_PythonClass\Assignment 07 subfolder using the IDE PyCharm
 
 To do that:
