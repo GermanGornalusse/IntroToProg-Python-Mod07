@@ -60,11 +60,11 @@ You will start writing the header and comments, as indicated in the Figure 3 abo
 
 ## Step 4. How to do Pickling in Python
 I included a list of websites and videos that I think they are useful so you can learn how to do pickling in Python:   
-•	https://www.datacamp.com/community/tutorials/pickle-python-tutorial (external website)   
+•	[Datacamp](https://www.datacamp.com/community/tutorials/pickle-python-tutorial) (external website)   
 I included this website because I have used Datacamp in the past to learn R programming and I really like how the instructions are stated.
 
-•	https://www.youtube.com/watch?v=D2e3_mPhQw0.  I chose this website because I only wanted to focus on dictionaries and not in other objects.   
-•	https://www.youtube.com/watch?v=Xc8Ss9JG2Pw I liked that this video incorporates the pickling multiple objects and handling error (try/except module), which we will cover in the next section.   
+•	[YouTube website1](https://www.youtube.com/watch?v=D2e3_mPhQw0).  I chose this website because I only wanted to focus on dictionaries and not in other objects.   
+•	[YouTube website2](https://www.youtube.com/watch?v=Xc8Ss9JG2Pw) I liked that this video incorporates the pickling multiple objects and handling error (try/except module), which we will cover in the next section.   
 ```
 # --------------------------------------------------------------------------------------- #
 # Title: Module 07 Files and Exceptions
@@ -138,10 +138,10 @@ Figure 6. Assignment 07_Pickling ran on OS command shell
 
 ## Step 5. Structure Error Handling in Python
 Before trying out the demo, please visit these websites:   
-•	https://www.geeksforgeeks.org/python-exception-handling/    This website is a hub that contains many useful links in the bottom, wherein they explained separate exceptions like EOFError. The explanations are super clear.   
-•	https://www.techbeamers.com/use-try-except-python/ Ideal for beginners.    
-•	https://www.programiz.com/python-programming/exception-handling  I liked how the flow of error handling is explained in this website (what comes first, what is skipped, etc.)   
-•	https://www.w3schools.com/python/python_try_except.asp I liked the simplicity of the explanations of the W3chools and the fact that you can try it out in any computer (even if you don’t have Python actually installed).    
+•	[Geeks for Geeks](https://www.geeksforgeeks.org/python-exception-handling/)    This website is a hub that contains many useful links in the bottom, wherein they explained separate exceptions like EOFError. The explanations are super clear.   
+•	[Teach Beamers](https://www.techbeamers.com/use-try-except-python/) Ideal for beginners.    
+•	[Programiz](https://www.programiz.com/python-programming/exception-handling)  I liked how the flow of error handling is explained in this website (what comes first, what is skipped, etc.)   
+•	[W3 Schools](https://www.w3schools.com/python/python_try_except.asp) I liked the simplicity of the explanations of the W3chools and the fact that you can try it out in any computer (even if you don’t have Python actually installed).    
 ```
 # ----------------------------------------------------------------------------------- #
 # Title: Module 07 Files and Exceptions
