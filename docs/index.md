@@ -48,7 +48,7 @@ a) File> Open
 b) Select Assignment 07 subfolder
 c) Select either “This window” or “New Window”.  Notice how, on the left-hand side, the “Assignment 07” subfolder shows up. In Figure 3 I am illustrating this example. 
 
-![Figure 3](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Verification%20in%20PyCharm%20on%20Pickling.PNG)   
+![Figure 3](https://github.com/GermanGornalusse/IntroToProg-Python-Mod07/blob/main/docs/Picture3.png)   
 Figure 3. PyCharm window showing current folder where your Python scripts for the Assignment07 will be saved
 
 ## Step 3. Create two Python Scripts  in the Project Folder: “Assignment07”: Assignment 07_Pickling and Assignment 07_Error_Handling.
