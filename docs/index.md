@@ -26,7 +26,7 @@ I am showing you how the final path to this folder will look like (**Figure 1**)
 
 
 
-![Figure 1](/docs/Pathway to folder Assignment 07.png)  
+![Figure 1] (/docs/Pathway to folder Assignment 07.png)  
 ####  Figure 1. Path to the folder where you will save your Assignment 07. I used my first and last name (“German Gornalusse”) as an example to personalize my subfolder.
 
 
